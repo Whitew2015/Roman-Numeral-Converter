@@ -65,11 +65,10 @@ label {
 }
 
 #output {
-    /*overflow-y: auto;
+    overflow-y: auto;
     word-wrap: break-word;
     min-height: 50px;
-    color: rgb(115, 34, 34);*/
-    color: red;
+    color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding-top: 20px;
     text-align: center;
